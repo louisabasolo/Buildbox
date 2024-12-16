@@ -31,3 +31,5 @@ December 9 - Excel problem (deah)
 December 10 - WEBEX(FHSIS Functionality)
 
 December 13 - scanned Post Activity Report for MRO Batch 2 for proper documentation
+
+December 16 - print documents (3rd q DQC, ICD-10 Post activity reports), edit e-sig
