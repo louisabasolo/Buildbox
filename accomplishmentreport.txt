@@ -60,4 +60,4 @@ January 15 - WEBEX (deah), print CA (RESU)
 
 January 16 - WEBEX FHSIS Monthly Monthly
 
-January 17 - CA and Tarp 4th Q DQC,
+January 17 - CA and Tarp 4th Q DQC, added new users to Wifi Voucher
