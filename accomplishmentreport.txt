@@ -65,4 +65,4 @@ Januart 23 - refill ink(rod), set-up printer(paul), fix unable to connect to wif
 January 27  - CSS(tessa), WEBEX(FHSIS), encode in Epabs
 JANUARY 30 - WEBEX MEETING (PRESENTATION OF ANNUAL FHSIS)
 JANUARY 31 - WEBEX MEETING (PRESENTATION OF ANNUAL FHSIS)
-February 3, 2025 - CSS consolidated for the month of January
+February 3, 2025 - CSS consolidated for the month of January, fix printer problem (peter), discuss on how to report CSS monthly consolidated (jong)
