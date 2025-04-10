@@ -102,3 +102,4 @@ April 2 - assist in fixing unable to connect to the internet (HFDU), assist in f
 April 3 - assisted in preparing printer for MR use (HFDU), Consolidated CSS and Feedback results and analysis (1st q RESUHEMS MR Report), prepared Certificate of Apperances cards, 
 April 7 - endorsed laptop custody from jong to blezel, installed google chrome on new laptop,
 April 8 -assisted in setting up desktop computer (peter), connected computer to network for internet and server connectivity 
+April 10 - fixed intermittent internet connectivity issue by recrimping RJ45 connector(jong)
