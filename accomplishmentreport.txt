@@ -103,3 +103,4 @@ April 3 - assisted in preparing printer for MR use (HFDU), Consolidated CSS and 
 April 7 - endorsed laptop custody from jong to blezel, installed google chrome on new laptop,
 April 8 -assisted in setting up desktop computer (peter), connected computer to network for internet and server connectivity 
 April 10 - fixed intermittent internet connectivity issue by recrimping RJ45 connector(jong), verified functionality of wireless lapels
+April 15 - refill ink (resu), review CCTV footage for attendance clarification(sir kevin)
