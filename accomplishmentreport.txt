@@ -105,3 +105,4 @@ April 8 -assisted in setting up desktop computer (peter), connected computer to 
 April 10 - fixed intermittent internet connectivity issue by recrimping RJ45 connector(jong), verified functionality of wireless lapels
 April 15 - refill ink (resu), review CCTV footage for attendance clarification(sir kevin), WEBEX meeting request(labing)
 April 16 - follow-up on the status of WEBEX meeting request and updated the date, assist in setting up devices to attend RMM
+April 21 - schedule WEBEX (levi), password reset(jong), add wifi voucher (doc alicante)
