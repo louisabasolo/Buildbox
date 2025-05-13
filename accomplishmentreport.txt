@@ -118,3 +118,4 @@ May 5 - assist in setting up print layout(Irehn)
 May 6 - fix keyboard problem (mam Blezel), fixed monitor color problen by replacing VGA connector
 MAy 7 - assisted in navigating EPABS (Doc Aparri), reroute images from mobile device to email for training directory (sir Jong), consolidate CSS
 May 8 - assist tracing issued properties (Doc Aparri), edit EPABS purchase request (rod), consolidate CSS
+May 9 - attend meeting (MCM)
