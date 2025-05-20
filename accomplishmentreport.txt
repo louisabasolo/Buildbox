@@ -123,4 +123,4 @@ May 13 - CSS (HEMS)
 May 14 - CSS (HEMS), prepared gatepass forms, 
 May 15 - CSS, org chart
 May 16 - CSS, Org chart, Excel format (Mam Blezel)
-MAy 29 - CSS, WEBEX(Mam En), Biometric, AnyDESK Server
+MAy 29 - CSS, WEBEX(Mam En), Biometric, AnyDESK Server, Uninstall unecessary APP from laptop (CDOHO)
