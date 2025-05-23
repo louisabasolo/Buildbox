@@ -124,5 +124,6 @@ May 14 - CSS (HEMS), prepared gatepass forms,
 May 15 - CSS, org chart
 May 16 - CSS, Org chart, Excel format (Mam Blezel)
 MAy 20 - CSS, WEBEX(Mam En), Biometric, AnyDESK Server, Uninstall unecessary APP from laptop (CDOHO)
-MAy 21 - WEBEX (Mam Blezel)
+MAy 21 - WEBEX (Mam Blezel), refill ink (Sir  Jong)
 May 22 - prepared CSS links and QR Code for BLS SFA Carmen
+May 23 - fixed broken PC USB socket (En-en), Refill ink (connie), CSS process (connie)
