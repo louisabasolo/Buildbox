@@ -130,3 +130,4 @@ May 23 - fixed broken PC USB socket (En-en), Refill ink (connie), CSS process (c
 May 26 - prepare CSS forms MCM ADS, JO Service Request Wi-Fi fix (RESU) & CCTV Camera(water lab)
 May 27 - endorsed PC to KM-ICT for power button repair, endorsed to KM-ICT printer for property return, excel format(mam Blezel), gatepass for PC and printer endorsement, Org Chart, name plates
 Mary 28 - print and route HEMS updated PPMP Budget, troubleshoot excel problem (mam Blezel), set-up and install printer(sir Jo Basadre), Edit ORg Chart 2025
+May 29 - set up and install printer (mam Myca, sir Dave), edit Org Chart 2025, replace monitor (mam vaneza),
