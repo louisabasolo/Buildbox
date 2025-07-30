@@ -157,5 +157,5 @@ July 17 - SRF (Rescuelympics Event Coverage), edit video for DRMM-H Summit
 July 18 - edit video for DRMM-H Summit, route docs, prepared RPO (rescuelympics), prepared vehicle request (rescuelympics)
 July 21 - encode CSS form 1
 July 28 - prepare form CSS (BLS SFA Barobo)
-July 29 - biometric, route docs
-July 30 - encode CSS, consolidate monthly CSS
+July 29 - biometric, route docs, uninstall unecessary files (vaneza)
+July 30 - encode CSS, consolidate monthly CSS, set-up printer to broadcast to network, connect PC to network printer, 
