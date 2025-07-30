@@ -158,4 +158,4 @@ July 18 - edit video for DRMM-H Summit, route docs, prepared RPO (rescuelympics)
 July 21 - encode CSS form 1
 July 28 - prepare form CSS (BLS SFA Barobo)
 July 29 - biometric, route docs
-July 30 - encode CSS
+July 30 - encode CSS, consolidate monthly CSS
