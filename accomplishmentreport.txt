@@ -160,3 +160,4 @@ July 28 - prepare form CSS (BLS SFA Barobo)
 July 29 - biometric, route docs, uninstall unecessary files (vaneza)
 July 30 - encode CSS, consolidate monthly CSS, set-up printer to broadcast to network, connect PC to network printer, 
 July 31 - consolidate monthly CSS, 
+August 5 - submit SRF for Tarp - Regional Strategic Information and Response Planning (stir-up) workshop
