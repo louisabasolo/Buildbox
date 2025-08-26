@@ -166,3 +166,4 @@ August 7 - route docs
 August 8 - prepared RPOs for the month of August
 August 15 - SRF HSFD Tarp, refill ink
 August 18 - review CCTV
+August 26 - encode css form 1, submit css report to HPO (rod)
