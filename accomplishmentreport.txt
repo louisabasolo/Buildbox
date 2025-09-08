@@ -170,3 +170,5 @@ August 26 - encode css form 1, submit css report to HPO (rod)
 August 27 - encode css form 1, excel pivot and chart
 Sept 1 - SRF Tarp MCM
 Sept 2 - route docs, edit photoshop (labing poster CDO event)
+sept 5 - edit badge ID(MCM)
+sept 8 - make Purchase Request Process Flow, 
