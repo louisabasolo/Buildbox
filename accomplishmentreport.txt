@@ -175,3 +175,4 @@ sept 8 - make Purchase Request Process Flow, encode CSS form 1
 september 29 - ink refill, receive ink
 septenber 30 - prepared computer oculars, encoded desktop and printers inventory
 October 1 - consolidate CSS
+October 2 - encode PPMP in ePabs
