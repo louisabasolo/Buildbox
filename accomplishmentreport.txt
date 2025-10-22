@@ -183,3 +183,4 @@ October 16 - assist tandag city in troubleshooting hears form uploading
 October 17 - fixed desktop no display error
 October 20 - fix biometric date and time settings
 October 21 - refill ink, revise project proposal on epabs, prepared CSS google form (rod)
+October 22 - revise project proposal on epabs
