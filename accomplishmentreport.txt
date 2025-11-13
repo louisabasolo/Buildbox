@@ -195,3 +195,4 @@ November 4 - SRF HEMS (PIR)
 November 10 - reset ink pad(mychal), reset biometric
 November 11 - meeting with Doc San, distribute ICT equipments, 
 November 12 - revise epabs, ICT inventory
+November 13 - epabs
