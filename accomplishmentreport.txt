@@ -204,3 +204,5 @@ November 27 - prepare CSS 3 for HEMS activities, repared Certificate of Apprecia
 December 3 - secured files from PC, prepared Certificate of Appreciation in Photoshop,
 December 4 - hard reset PC, repared Certificate of Appreciation in Photoshop,
 December 5 - prepared and print Certificate of Appreciation in Photoshop,
+December 9
+December 10 - encode css
