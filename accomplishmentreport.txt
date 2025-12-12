@@ -207,3 +207,4 @@ December 5 - prepared and print Certificate of Appreciation in Photoshop,
 December 9
 December 10 - encode css
 December 11 - troubleshoot and fix USB problem
+December 12 - troubleshoot printer problem
