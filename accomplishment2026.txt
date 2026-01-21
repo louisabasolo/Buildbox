@@ -16,4 +16,5 @@ January 19 - enhance scan-printed files, facilitated the temporary release of Wi
 
 January 20 - enhance scan-printed files, 
 
-January 21 - troubleshoot and fix USB Flash Drive problem, 
+January 21 - troubleshoot and fix USB Flash Drive problem, prepared Property Return Letters
+
