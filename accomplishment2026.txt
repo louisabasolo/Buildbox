@@ -42,4 +42,5 @@ Feb 24 - cctv
 
 Feb 25 - epabs(new WFP PPMP mam en), set-up hems govmail
 
-March 2 - gatepass printer, internet connection report (dave)
+March 2 - gatepass printer, internet connection report (dave), check if Micro SD is functional and genuine
+
